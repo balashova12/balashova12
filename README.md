@@ -2,9 +2,7 @@
 
 🎓 Bachelor of Engineering in Information Technology — XAMK University, Mikkeli, Finland
 
-💻 Junior Backend Developer with hands-on experience in REST APIs, AWS Lambda, and TypeScript
-
-🌱 Currently looking for my first full-time backend role
+💻 Backend Developer with hands-on experience in REST APIs, AWS Lambda, and TypeScript
 
 ---
 
